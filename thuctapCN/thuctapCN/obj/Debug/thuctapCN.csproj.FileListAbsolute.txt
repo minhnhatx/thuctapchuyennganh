@@ -1,0 +1,11 @@
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\bin\Debug\thuctapCN.exe.config
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\bin\Debug\thuctapCN.exe
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\bin\Debug\thuctapCN.pdb
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.csproj.AssemblyReference.cache
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.baocao2.resources
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.Form1.resources
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.Properties.Resources.resources
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.csproj.GenerateResource.cache
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.csproj.CoreCompileInputs.cache
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.exe
+C:\Users\quanv\source\repos\thuctapCN\thuctapCN\obj\Debug\thuctapCN.pdb
